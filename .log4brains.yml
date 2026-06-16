@@ -6,6 +6,3 @@ project:
     - name: router
       path: ./router
       adrFolder: ./router/docs/adr
-    - name: test-project
-      path: ./test_project
-      adrFolder: ./test_project/docs/adr
