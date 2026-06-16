@@ -1,8 +1,8 @@
-# [short title of solved problem and solution]
+# dsafadfafa
 
 - Status: [draft | proposed | pended | accepted | deprecated | superseded by [xxx](yyyymmdd-xxx.md)] <!-- optional -->
-- Deciders: [list everyone involved in the decision] <!-- optional -->
-- Date: [YYYY-MM-DD when the decision was last updated] <!-- optional. -->
+- Deciders: [list everyone involved in the decision] <!-- optional github から自動で拾ってくるので省略を推奨 -->
+- Date: [YYYY-MM-DD when the decision was last updated] <!-- optional. github の更新日時を利用するので省略を推奨 -->
 - Tags: [space and/or comma separated list of tags] <!-- optional -->
 
 Technical Story: [description | ticket/issue URL] <!-- optional -->
@@ -25,11 +25,10 @@ Technical Story: [description | ticket/issue URL] <!-- optional -->
 
 [
 判断結果ではなく、 判断に影響した要因をリストアップする。
-
-- 判断基準
-- トレードオフ
-- 制約条件
-- 重視したこと
+  - 判断基準
+  - トレードオフ
+  - 制約条件
+  - 重視したこと
 ]
 
 ## Considered Options
@@ -44,10 +43,9 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 
 [
 記載例：
-
-- 採用 or 不採用
-- 採用／不採用理由
-- 採用条件
+  - 採用 or 不採用
+  - 採用／不採用理由
+  - 採用条件
 ]
 
 ### Positive Consequences <!-- optional -->
@@ -93,10 +91,10 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 
 ## Remarks <!-- optional -->
 
-[
+<!--
 本決定が与える影響、副作用、リスク
 注意／補足事項
-]
+-->
 
 ## Links <!-- optional -->
 
