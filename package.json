@@ -1,0 +1,14 @@
+{
+  "name": "eead-adr",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "adr": "log4brains adr",
+    "preview": "log4brains preview",
+    "build": "log4brains build"
+  },
+  "devDependencies": {
+    "@log4brains/cli": "^1.0.1",
+    "@log4brains/web": "^1.0.1"
+  }
+}
