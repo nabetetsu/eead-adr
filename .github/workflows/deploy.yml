@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Build log4brains
-        run: npx log4brains build
+        run: npx log4brains build --basePath /eead-adr
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
